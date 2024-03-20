@@ -29,7 +29,7 @@ const febHolidays = [
     "fr 2 liv pomme d'amour🤣❤️",
     "But anyways, Happy 4 month my sweet little girlfriend(wife🤭)",
     "You're the love of my life,",
-    "I Love You So much❤️"
+    "I Love You So much❤️😘"
   ];
   const ulEl = document.querySelector("ul");
   const d = new Date();
